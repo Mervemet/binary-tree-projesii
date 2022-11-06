@@ -9,3 +9,7 @@
     0         3 
     
            2      4
+
+
+root 7 dir. 5 7 den küçük olduğu için soluna yazılır. 8 7 den büyük olduğu için sağına yazılır. 1 5 ve 7 den küçük olduğu için 7 ve 5 in soluna ekelnir. 5 in solunda 6 
+solunda 1 bulunur. 8 in sağında 9 bulunur. 1in solunda 0 sağında 3 bulunur. 3 ün sağında 4 solunda 2 bulunur.
